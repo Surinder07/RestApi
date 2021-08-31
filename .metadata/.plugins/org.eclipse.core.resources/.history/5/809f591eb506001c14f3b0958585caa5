@@ -1,0 +1,5 @@
+package com.surinder.clinicals.model;
+
+public class ClinicalData {
+
+}

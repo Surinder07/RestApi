@@ -1,0 +1,5 @@
+package com.surinder.clinicals.controllers;
+
+public class ClinicalDataController {
+
+}

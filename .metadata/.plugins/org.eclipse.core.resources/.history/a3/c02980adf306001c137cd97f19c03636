@@ -1,0 +1,5 @@
+package com.surinder.clinicals.dto;
+
+public class ClinicalDataRequest {
+
+}

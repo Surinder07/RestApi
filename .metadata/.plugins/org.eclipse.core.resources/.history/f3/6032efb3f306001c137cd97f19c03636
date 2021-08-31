@@ -1,0 +1,18 @@
+package com.surinder.clinicals.controllers;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.surinder.clinicals.dto.ClinicalDataRequest;
+import com.surinder.clinicals.model.ClinicalData;
+
+@RestController
+@RequestMapping("/api")
+public class ClinicalDataController {
+
+	public ClinicalData saveClinicalData(ClinicalDataRequest request) {
+		
+		return null;
+		
+	}
+}
